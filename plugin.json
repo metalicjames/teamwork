@@ -1,0 +1,16 @@
+{
+  "name": "teamwork",
+  "displayName": "Teamwork Agent Teams",
+  "version": "1.0.0",
+  "description": "Collaborative multi-agent teams (/teamwork) for large software projects, systems simulations, document reviews, and mathematical proofs with Phase 1 scoping interviews and Phase 2 adversarial verification gates.",
+  "author": {
+    "name": "James Lovejoy"
+  },
+  "repository": "https://github.com/metalicjames/teamwork",
+  "license": "MIT",
+  "suggestedPrompts": [
+    "/teamwork Migrate our REST API service with full test coverage and benchmark validation",
+    "/teamwork Design and implement a cycle-accurate simulator with lockstep verification tests",
+    "/teamwork Review this design document across architecture, empirical rigor, and edge cases"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "teamwork",
+  "version": "1.0.0",
+  "description": "Collaborative multi-agent teams (/teamwork) for large software projects, systems simulations, document reviews, and mathematical proofs.",
+  "author": {
+    "name": "James Lovejoy"
+  },
+  "repository": "https://github.com/metalicjames/teamwork",
+  "license": "MIT",
+  "skills": "./skills/"
+}

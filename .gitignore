@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Type checking & Linters
+.mypy_cache/
+.ruff_cache/
+
+# Environments & Local Configuration
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Teamwork runtime & agent operational directories
+# WARNING: Do NOT ignore .agents/ because .agents/plugins/marketplace.json is tracked!
+.teamwork/
+.agents/teamwork/
+
+# Editor & OS artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/

@@ -1,0 +1,13 @@
+{
+  "name": "teamwork",
+  "plugins": [
+    {
+      "name": "teamwork",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "description": "Collaborative multi-agent teams (/teamwork) for large software projects, systems simulations, document reviews, and mathematical proofs."
+    }
+  ]
+}
